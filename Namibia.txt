@@ -1,0 +1,140 @@
+<head>
+<title< Namibia </title>
+<style>
+	body {
+	background-image: url("1.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+</style>
+<div style="margin:60px;">
+<body text="white" background="1.jpg" margin:100px;>
+<font size ="6.5" face="helvetica"> &nbsp
+<b><center>Namibia: An African Country The Media Won't Tell You</b>
+<p> </p>
+</font>
+&nbsp
+<audio controls>
+  <source src="Imamba.mp3" type="audio/ogg">
+</audio>
+<font size="3" face="arial">
+<p><i>Immerse yourself in sound, enjoy the site!</i></p>
+</font>
+<font size="4" face="arial">
+<p>Traveling through this land of contrasts evokes a feeling of timelessness, as though nothing has changed since colonial times, and yet the world’s oldest desert is constantly shifting. From its broad horizons to its endless dune seas and along its ghostly coastline, Namibia serves up dramatic sights and experiences at almost every turn: extraordinary wildlife encounters, rusting shipwrecks swallowed by sand, ancient San art emblazoned on parched rocks, traditional cultures, urban craft breweries, and an ever-present colonial charm. Even in its sparsest settings, Namibia imbues a richness of life.</p>
+<p>The Republic of Namibia is a vast, sparsely populated country situated along the South Atlantic coast of Africa. Located in southern Africa on the Atlantic Ocean, Namibia consists of 200 million acres of ocean shores, woodland savannas, lush floodplains, and picturesque deserts. It is the first country in the world that has incorporated the protection of the environment into its constitution.</p>
+<p>These conservancies – as well as governments, nonprofit organizations, and other entities – have restored populations of lions, cheetahs, black rhinos, zebras, and other native wildlife to the world’s richest dry land. Through initiatives, such as ecotourism, restoration has generated sustainable income for their communities.</p>
+</font>
+<div class="animals">
+<img src="2.jpg" height="200" widtht="350">
+<img class="middle-img" src="3.jpg" height="200" widtht="350">
+<img src="4.jpg" height="200" widtht="350">
+<img src="7.jpg" height="200" widtht="350">
+</div>
+<p>   </p>
+<font size="6" face="helvetica">
+<p align="left">INTERESTING<br>
+<b>FACTS</b></p>
+</font>
+<font size="5" align="left" face="helvetica">
+<ul type="square">
+<li>House the Oldest Desert</li>
+<li>Highest Sand Dunes</li>
+<li>Second largest Canyon</li>
+</font>
+</ul>
+<font size="4" face="helvetica">
+<marquee>The only desert in the world where you can find large mammals like elephants, rhinos, lions, and giraffes. Sossusvlei Sand Dunes are some of the highest in the world. Home to the Fish River Canyon; a vast mountain range eroded down by the ocean.</marquee>
+<p>   </p>
+<p>   </p>
+<font size="6" face="helvetica">
+<p align="left"><b>NATIONAL PARKS</b><br>
+TO VISIT IN <b>NAMIBIA</b></p>
+</font>
+</font>
+<font size="5" align="left" face="helvetica">
+<style>
+.container{
+display: flex;
+align-items: center;
+justify-content: center
+}
+.text{
+font-size: 35px;
+padding-left: 5px;
+clear:left;
+}
+img{
+max-width: 60%
+}
+.image{
+float: center;
+}
+</style>
+<div class="container">
+<div class="image">
+<img src="11.jpg">
+</div>
+<div class="text">
+<ol type="1">
+<li><a href="https://en.wikipedia.org/wiki/Caprivi_Strip" style= "color:white;">Caprivi</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Etosha_National_Park" style= "color:white;">Etosha National Park</a></li>
+<li> <a href="https://en.wikipedia.org/wiki/Fish_River_Canyon" style= "color:white;">Fish River Canyon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Keetmanshoop" style= "color:white;">Keetmanshoop</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lüderitz" style= "color:white;">Luderitz</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Skeleton_Coast" style= "color:white;">Skeleton Coast</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sossusvlei" style= "color:white;">Sossusvlei</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Swakopmund" style= "color:white;">Swakopmund</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Windhoek" style= "color:white;">Windhoek</a></li>
+</div>
+</div>
+</font>&nbsp
+&nbsp
+<font size="6" face="helvetica">
+<p align="center">Check out these videos!<br>
+</font>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BP-yhYfx1vI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+&nbsp
+&nbsp
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/42XTUEj0ODY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<button> Click for more information </button>
+<button> Having probelms? </button>
+<button> Contact Us </button><br>
+<p> </p>
+<form>
+ <label for="search"><i>Search</i></label><br>
+ <input id="search" name="search" type="search" placeholder="Search">
+</form><br>
+<form>
+ <label for="email"><i>Email Address</i></label><br>
+ <input id="email" name="email" type="email" placeholder="name@example.com">
+</form><br>
+<form>
+ <label for="password"><i>Password</i></label><br>
+ <input id="password" name="password" type="Password" placeholder="Password">
+</form><br>
+<p><i> Need help with directions? </i></p>
+<iframe src="https://www.google.com/maps/d/embed?mid=1306ekC4Zhc2n866qZeIef6OYgls&ehbc=2E312F" width="640" height="480"></iframe>
+
+&nbsp
+&nbsp
+<hr align="center" size="7" color="24cae0">
+<p>Thea Bawisan BSME3D<br>
+	theabcamporazo@gmail.com<br>
+	09982147664<br></p>
+<p>Hans Tristan Hablo BSME3D<br>
+	hablohanstristan@gmail.com<br>
+	09691801783<br></p>
